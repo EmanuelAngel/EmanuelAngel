@@ -16,5 +16,5 @@
   <line x1="0" y1="318" x2="1280" y2="318" stroke="#232038" stroke-width="1"/>
   <rect x="76" y="112" width="56" height="2" fill="#c4a7e7"/>
   <text x="72" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="-1" fill="#eceaf6">Emanuel Angel</text>
-  <text x="76" y="238" font-family="system-ui, 'Segoe UI', sans-serif" font-size="17" fill="#a39ec4">Fullstack junior — <tspan fill="#c4a7e7" font-weight="600">admin systems</tspan></text>
+  <text x="76" y="238" font-family="system-ui, 'Segoe UI', sans-serif" font-size="17" fill="#a39ec4">Software Developer — <tspan fill="#c4a7e7" font-weight="600">Full Stack</tspan></text>
 </svg>
