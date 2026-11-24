@@ -2,4 +2,4 @@
 
 🧉 Mate-driven development is my favorite workflow.
 
-🏠 [emanuelangel.dev](https://emanuelangel.dev) · emanuelangelsbr@gmail.com
+💼 [emanuelangel.dev](https://emanuelangel.dev) · emanuelangelsbr@gmail.com
